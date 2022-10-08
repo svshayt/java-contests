@@ -1,6 +1,6 @@
-package com.svshayt.leetcode.problemset.problem_1;
+package com.svshayt.leetcode.problemset.problem_1672;
 
-public class Solution1 {
+public class Solution1672 {
 
     public int maximumWealth(int[][] accounts) {
         int max = 0;
