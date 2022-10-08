@@ -6,7 +6,7 @@
 
 [383. 🔴 Ransom Note](https://leetcode.com/problems/ransom-note/)
 
-[412. 🔴 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
+[412. 🔵 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
 [876. 🔵 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
