@@ -4,7 +4,7 @@
 
 [234. 🔴 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
-[383. 🔴 Ransom Note](https://leetcode.com/problems/ransom-note/)
+[383. 🔵 Ransom Note](https://leetcode.com/problems/ransom-note/)
 
 [412. 🔵 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
