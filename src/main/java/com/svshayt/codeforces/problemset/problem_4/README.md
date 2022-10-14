@@ -1,4 +1,4 @@
-# Codeforces Beta Round #4 (Div. 2 Only)
+# 4 | Codeforces Beta Round #4 (Div. 2 Only)
 
 🔵 [A. Watermelon](https://codeforces.com/contest/4/problem/A)
 
