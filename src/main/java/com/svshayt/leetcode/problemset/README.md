@@ -2,7 +2,7 @@
 
 [13. 🔴 Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-[234. 🔴 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+[234. 🔵 Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 [383. 🔵 Ransom Note](https://leetcode.com/problems/ransom-note/)
 
