@@ -8,6 +8,8 @@
 
 [412. 🔵 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
+[724. 🔵 Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+
 [876. 🔵 Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 [1337. 🔵 The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)
