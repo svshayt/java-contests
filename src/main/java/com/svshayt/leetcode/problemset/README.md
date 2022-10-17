@@ -8,6 +8,8 @@
 
 [383. 🔵 Ransom Note](https://leetcode.com/problems/ransom-note/)
 
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)
+
 [412. 🔵 Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)
 
 [724. 🔵 Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
